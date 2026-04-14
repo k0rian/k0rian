@@ -48,68 +48,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 1. llmautotest
-> LangGraph-driven software testing agent with static code analysis and GUI testing capabilities.
-
-**Highlights**
-- Agent workflow orchestration
-- Static analysis / semantic indexing direction
-- LLM-assisted testing
-- Python-based implementation
-
-**Tech**
-`Python` `LangGraph` `Agent` `Static Analysis` `GUI Testing`
-
-**Repo**
-- https://github.com/k0rian/llmautotest
-
----
-
-### 2. goOss-grpc
-> RPC service for OSS credential distribution, built with GoZero.
-
-**Highlights**
-- Backend service design
-- Credential distribution service
-- GoZero-based microservice style practice
-
-**Tech**
-`Go` `GoZero` `gRPC` `Backend`
-
-**Repo**
-- https://github.com/k0rian/goOss-grpc
-
----
-
-### 3. dschat
-> A Rust terminal client integrating major DeepSeek AI interfaces.
-
-**Highlights**
-- CLI-oriented AI tooling
-- Rust practice in engineering tools
-- API-driven terminal workflow
-
-**Tech**
-`Rust` `CLI` `AI API`
-
-**Repo**
-- https://github.com/k0rian/dschat
-
----
-
-## 🧭 What I’m Working On
-
-```text
-- LLM Agent for software functional issue detection
-- Semantic code indexing and analysis workflow
-- Static audit + protocol/RFC-oriented validation
-- Security and backend engineering practice
-````
-
----
-
 ## 🏗️ Architecture / Interests
 
 <table>
@@ -132,15 +70,6 @@
     <td align="center">Semantic indexing</td>
   </tr>
 </table>
-
----
-
-## 🎯 Current Focus
-
-* Building practical **Agent-based software testing workflows**
-* Improving **semantic indexing** for source code understanding
-* Writing tools that are actually useful in real engineering scenarios
-* Exploring the intersection of **security**, **analysis**, and **automation**
 
 ---
 
