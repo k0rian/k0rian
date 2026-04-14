@@ -42,17 +42,14 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Security-red?style=flat-square" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0rian)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=k0rian&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k0rian&hide_border=true&area=true" />
+  <img height="170" src="https://nice-readme.vercel.app/stats?user=k0rian" />
 </p>
 
 <p align="center">
