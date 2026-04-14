@@ -27,14 +27,13 @@
   - LangGraph / Agent workflow design
   - Static code analysis + semantic indexing
   - System-level tooling and backend service architecture
-- 🧠 Like turning ideas into tools, not just demos
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,rust,c,cpp,js,ts,react,nextjs,nodejs,linux,docker,git,github,mysql,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=go,python,rust,c,js,ts,react,nodejs,linux,docker,mysql" />
 </p>
 
 <p align="center">
@@ -49,8 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=k0rian&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0rian&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://streak-stats.demolab.com?user=k0rian&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k0rian&hide_border=true&area=true" />
 </p>
 
 <p align="center">
