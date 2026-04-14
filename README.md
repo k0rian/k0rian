@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Korian 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Security+%7C+Backend+%7C+System+Programming;Go+%2F+Python+%2F+Rust+%2F+C;LLM+Agent+%2B+Static+Analysis+%2B+Infra+Engineering" alt="Typing SVG" />
 </p>
@@ -17,7 +15,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 - 🔐 Focused on **security engineering**, **backend systems**, and **code analysis**
@@ -35,22 +32,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,rust,c,js,ts,react,nodejs,linux,docker,mysql" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLM%20Agent-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Static%20Analysis-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Security-red?style=flat-square" />
-</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0rian)
+<img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://nice-readme.vercel.app/stats?user=k0rian" />
-</p>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=k0rian&hide_border=true" />
